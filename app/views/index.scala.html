@@ -3,7 +3,7 @@
  * message to display.
  *@
 @import model.Event
-@(data: List[Event])
+@(data: Iterable[Event])
 
 @*
  * Call the `main` template with two arguments. The first
@@ -11,5 +11,9 @@
  * argument is an `Html` object containing the body of the page.
  *@
 @main() {
-
+ @for(event <- data) {
+  <img width="200" height="200" src="@event.img.as[String]" alt="@event.name.as[String]"/>
+  @event.name
+  <hr />
+ }
 }
