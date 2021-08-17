@@ -2,7 +2,7 @@ package controllers
 
 import model.Event
 import play.api.libs.Collections
-import play.api.libs.json.{JsObject, Json}
+import play.api.libs.json.{JsArray, JsObject, Json}
 
 import javax.inject._
 import play.api.mvc._
@@ -21,7 +21,7 @@ class HomeController @Inject()(cc: ControllerComponents) extends AbstractControl
    * a path of `/`.
    */
   def index: Action[AnyContent] = Action {
-    val data = Json.parse(getClass.getClassLoader.getResourceAsStream("data.json")).asInstanceOf[JsObject].values
+    val data = Json.parse(getClass.getClassLoader.getResourceAsStream("data.json")).asInstanceOf[JsArray].value
     Ok(views.html.index(data.map(Event.apply)))
   }
 

@@ -1,11 +1,13 @@
 package model
 
-import play.api.libs.json.{JsObject, JsValue}
+import play.api.libs.json.{JsObject, JsString, JsValue}
 
 case class Event(jsValue: JsValue) {
-  def img = jsValue.as[JsObject].value("photo_200")
+  def img: JsValue = jsValue.as[JsObject].value("photo_200")
 
-  def name() = jsValue.as[JsObject].value("name")
+  def name(): JsValue = jsValue.as[JsObject].value("name")
+
+  def url: String = "https://vk.com/" + jsValue.as[JsObject].value("screen_name").asInstanceOf[JsString].value
 }
 
 object Event {

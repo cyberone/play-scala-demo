@@ -14,6 +14,7 @@
  @for(event <- data) {
   <img width="200" height="200" src="@event.img.as[String]" alt="@event.name.as[String]"/>
   @event.name
+  <a href="@event.url">&gt;</a>
   <hr />
  }
 }
