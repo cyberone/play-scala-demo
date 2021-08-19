@@ -1,61 +1,5 @@
 [
   {
-    "id": 55502570,
-    "name": "\u041c\u0418\u041b\u041e\u041d\u0413\u0410 \u0422\u0430\u043d\u0433\u043e open-air \u0432 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0435",
-    "screen_name": "tangopenair",
-    "is_closed": 0,
-    "type": "event",
-    "is_admin": 0,
-    "is_member": 0,
-    "is_advertiser": 0,
-    "photo_50": "https://sun4-17.userapi.com/s/v1/if2/AoAX1fRVzlo4DE2odC8_FvJQMoxRyw9OridIvEb_M9p9-vvnK0SMed-n9rPut7fy3SHETuXxSBWrKFHPpaDTQgp9.jpg?size=50x50&quality=96&crop=37,18,378,378&ava=1",
-    "photo_100": "https://sun4-17.userapi.com/s/v1/if2/sk00p4172WWpzgUIgjxl3UzqUebEGmg03emieYTpqi_B5HFvYFCxuvpU0NA2AnKzmfeASQaaFrSrePn5uKn7cxrN.jpg?size=100x100&quality=96&crop=37,18,378,378&ava=1",
-    "photo_200": "https://sun4-17.userapi.com/s/v1/if2/uKXMdWDPuPg-SkplXx5oBxmS2QX2VazSqe5OyqcS0Ej7Ef0sB12pnt0i0nJ3f-tK1x11H0B39Tv54zdwO53wrByU.jpg?size=200x200&quality=96&crop=37,18,378,378&ava=1",
-    "start_date": 1629288000
-  },
-  {
-    "id": 206285809,
-    "name": "18.08 Brandy kills @ruinpubtypography",
-    "screen_name": "club206285809",
-    "is_closed": 0,
-    "type": "event",
-    "is_admin": 0,
-    "is_member": 0,
-    "is_advertiser": 0,
-    "photo_50": "https://sun4-17.userapi.com/s/v1/ig2/I7FwZavvIfhp-HawUCSY3bRC4jT9E3ZUjiYdoXdVejnZYgFu7Ye8oO0Rf8hKDdcxh4MSvZf1nQ0iWUNVuZbVWXP5.jpg?size=50x50&quality=95&crop=0,0,2559,2559&ava=1",
-    "photo_100": "https://sun4-17.userapi.com/s/v1/ig2/LQlOHkU63KmYZaAMlKUXy7z7DrQoEJdlKFd-QPyl6BJRG60o3W1UwanCA6tChBBhnWbcsWW7FbkWSAI5LbIR-TOf.jpg?size=100x100&quality=95&crop=0,0,2559,2559&ava=1",
-    "photo_200": "https://sun4-17.userapi.com/s/v1/ig2/gwaZrGPpbG0_aOHvibQn9Itke19-zLwB8xaN_ijetHzG5o6MWzpIz8eHQQ7xHJpgw_ihQ-jO-vD3EvozpSfQ1Pp8.jpg?size=200x200&quality=95&crop=0,0,2559,2559&ava=1",
-    "start_date": 1629291600
-  },
-  {
-    "id": 44657786,
-    "name": "\u041f\u041e\u0421\u041e\u041b\u041e\u041d\u042c - \u0432\u0441\u0442\u0440\u0435\u0447\u0430 \u0441 \u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043e\u0439",
-    "screen_name": "posolon_novosibirsk",
-    "is_closed": 0,
-    "type": "event",
-    "is_admin": 0,
-    "is_member": 0,
-    "is_advertiser": 0,
-    "photo_50": "https://sun4-17.userapi.com/s/v1/if2/YqG_Lvah4fUcvVNu7T22OIjOnbdhPxNyHLUUv8-r6xPMwECtldxGGE_WT8bnrM6VtVASAb7TMHLMmsiyUUioFPfD.jpg?size=50x50&quality=96&crop=12,271,269,269&ava=1",
-    "photo_100": "https://sun4-17.userapi.com/s/v1/if2/SmgBy9iSYIiRLkGh7Uxwt7RYabkwGxIZfY2_QlaLJsj3DLt-6nF9OVxMsgnk0GLvw0KJh6t6L2ZIjfZiCdG2hzM9.jpg?size=100x100&quality=96&crop=12,271,269,269&ava=1",
-    "photo_200": "https://sun4-17.userapi.com/s/v1/if2/anJOLvJimIqaMGpEMs25vXYdY-cNTNeaza_cKepBx7CTomTR4SflNgVZixuzq22bdpfmNzECXqZeSWFq9OAEs5qs.jpg?size=200x200&quality=96&crop=12,271,269,269&ava=1",
-    "start_date": 1629374400
-  },
-  {
-    "id": 206213292,
-    "name": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u0438\u043a 19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 \u0432 \u041f\u043e\u0434\u0437\u0435\u043c\u043a\u0435",
-    "screen_name": "kvartirnik_v_chetverg",
-    "is_closed": 0,
-    "type": "event",
-    "is_admin": 0,
-    "is_member": 0,
-    "is_advertiser": 0,
-    "photo_50": "https://sun4-15.userapi.com/s/v1/ig2/vgxDcy92JMHWD9SmmDzxrklZKKs13QtXFHOu2FhOFqmM_p7NsktKe32UBxC4kcbchTuIPyQ1sJDFMeHyhT6Kiajm.jpg?size=50x50&quality=95&crop=20,21,879,879&ava=1",
-    "photo_100": "https://sun4-15.userapi.com/s/v1/ig2/f5BhTRM9a9bJJPXSMjJwtq7ct4zR1onqJQpO7pU8AimUoVdiEgedhqGv-nfzrgHe6mku4-6qyllBOUdvVbAWQd6R.jpg?size=100x100&quality=95&crop=20,21,879,879&ava=1",
-    "photo_200": "https://sun4-15.userapi.com/s/v1/ig2/eGtVepvRCwazXjQBzpe9Ra7keGvTyUF0Mq1tkDUVM-XvpRl5Vs7kZV_exBEQ4jmHx_NybYQL-AxYz0XHTQbsJz2V.jpg?size=200x200&quality=95&crop=20,21,879,879&ava=1",
-    "start_date": 1629381600
-  },
-  {
     "id": 172375705,
     "name": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440\u044b \u042e.\u0428\u0435\u043b\u0435\u043f\u0438\u043d\u043e\u0439 \u0432 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0435",
     "screen_name": "club172375705",
@@ -84,20 +28,6 @@
     "start_date": 1629450000
   },
   {
-    "id": 203741697,
-    "name": "\u0422\u0420\u0410\u041d\u0421\u0424\u041e\u0420\u041c\u0410\u0426\u0418\u041e\u041d\u041d\u042b\u0415 \u0418\u0413\u0420\u042b - \u041d\u041e\u0412\u041e\u0421\u0418\u0411\u0418\u0420\u0421\u041a",
-    "screen_name": "igropraktika_nsk",
-    "is_closed": 0,
-    "type": "event",
-    "is_admin": 0,
-    "is_member": 0,
-    "is_advertiser": 0,
-    "photo_50": "https://sun4-12.userapi.com/s/v1/ig2/qlLCrCCHQU7Ef06YHVeQLx7zxCt95U0XaEX9pa19j0-DKaqrxO2v3Gno65fa3dMYimCrZAQ7czw8PayamPfsWOZO.jpg?size=50x50&quality=96&crop=122,53,973,973&ava=1",
-    "photo_100": "https://sun4-12.userapi.com/s/v1/ig2/-S5ylTGMvdB7eIGXLW9ZNtVl8vx2x8aA0YGU3T6S93ReGTHWpE7qGbwRSbEgIKu5LtqK-uxXzI77I5L-tnWkbQEE.jpg?size=100x100&quality=96&crop=122,53,973,973&ava=1",
-    "photo_200": "https://sun4-12.userapi.com/s/v1/ig2/KQRGuxQcE31wpPxqxlnAEaJ9oDty0D8HpUyu48AFRbH8CD4DYb1rHb0FK1BiT-6SktCJy4az7LKdaFZYyMrb1tYM.jpg?size=200x200&quality=96&crop=122,53,973,973&ava=1",
-    "start_date": 1629459000
-  },
-  {
     "id": 178307977,
     "name": "Stand-Up On Tour: \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a | \u041a\u0438\u0440\u0438\u043b\u043b \u0421\u0435\u043b\u0435\u0433\u0435\u0439",
     "screen_name": "nsk_standup_tour",
@@ -112,6 +42,34 @@
     "start_date": 1629459000
   },
   {
+    "id": 203741697,
+    "name": "\u0422\u0420\u0410\u041d\u0421\u0424\u041e\u0420\u041c\u0410\u0426\u0418\u041e\u041d\u041d\u042b\u0415 \u0418\u0413\u0420\u042b - \u041d\u041e\u0412\u041e\u0421\u0418\u0411\u0418\u0420\u0421\u041a",
+    "screen_name": "igropraktika_nsk",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-12.userapi.com/s/v1/ig2/qlLCrCCHQU7Ef06YHVeQLx7zxCt95U0XaEX9pa19j0-DKaqrxO2v3Gno65fa3dMYimCrZAQ7czw8PayamPfsWOZO.jpg?size=50x50&quality=96&crop=122,53,973,973&ava=1",
+    "photo_100": "https://sun4-12.userapi.com/s/v1/ig2/-S5ylTGMvdB7eIGXLW9ZNtVl8vx2x8aA0YGU3T6S93ReGTHWpE7qGbwRSbEgIKu5LtqK-uxXzI77I5L-tnWkbQEE.jpg?size=100x100&quality=96&crop=122,53,973,973&ava=1",
+    "photo_200": "https://sun4-12.userapi.com/s/v1/ig2/KQRGuxQcE31wpPxqxlnAEaJ9oDty0D8HpUyu48AFRbH8CD4DYb1rHb0FK1BiT-6SktCJy4az7LKdaFZYyMrb1tYM.jpg?size=200x200&quality=96&crop=122,53,973,973&ava=1",
+    "start_date": 1629459000
+  },
+  {
+    "id": 74905179,
+    "name": "\u0424\u043e\u0440\u0440\u00f3 \u0438 \u0441\u0430\u043c\u0431\u0430 \u043d\u0430 \u0441\u0432\u0435\u0436\u0435\u043c \u0432\u043e\u0437\u0434\u0443\u0445\u0435 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0433\u043e\u0440\u043e\u0434\u043a\u0435!",
+    "screen_name": "forroakademopenair",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-16.userapi.com/s/v1/if1/LHqK3R7i6TL4v3p0XDQh9jWTT2MT-wX66iWvrznkkGWdb7Mn2WYfVyvb6gHRd2O45xt4MSsm.jpg?size=50x50&quality=96&crop=207,25,1666,1666&ava=1",
+    "photo_100": "https://sun4-16.userapi.com/s/v1/if1/Hhj9xkMaog0jsrtaZLhnMViiQWhVOIEOoHAES0tqDFe4-VZVPmBbUtCtrSkbaBkc6KaGt38C.jpg?size=100x100&quality=96&crop=207,25,1666,1666&ava=1",
+    "photo_200": "https://sun4-16.userapi.com/s/v1/if1/taEV_OfcP2Xtsor27tGbBXnhwWQm7nQj3UusVFhBIDTdT13QQjPHNn4NluztgaXxQgRyrflc.jpg?size=200x200&quality=96&crop=207,25,1666,1666&ava=1",
+    "start_date": 1629460800
+  },
+  {
     "id": 94854748,
     "name": "\u0426\u0435\u0440\u043a\u043e\u0432\u044c \"\u041d\u043e\u0432\u043e\u0435 \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435\" \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
     "screen_name": "ng054",
@@ -123,6 +81,34 @@
     "photo_50": "https://sun4-17.userapi.com/s/v1/ig1/InH9nEKIKQl6XIgFmSgmhdJUs7XGVgKsGikviezpmPcCMOxc8pNibeJbv-Bcrdj3TqKg3aNl.jpg?size=50x50&quality=96&crop=0,0,500,500&ava=1",
     "photo_100": "https://sun4-17.userapi.com/s/v1/ig1/zbIBQ1am8vdXMvbIUhaOgPP92Ge5JW34hrBXuOEoGrrS6i92bhCVpdbL7X9MjcrB4eqG3hnL.jpg?size=100x100&quality=96&crop=0,0,500,500&ava=1",
     "photo_200": "https://sun4-17.userapi.com/s/v1/ig1/NsvGaEWI4RGU0y95mIduH25MYg6hpgwW15COs--Hxr2yPvMyPuRY8HQcFfOAlRG76wBKiaUA.jpg?size=200x200&quality=96&crop=0,0,500,500&ava=1",
+    "start_date": 1629460800
+  },
+  {
+    "id": 206382208,
+    "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u041d\u041b\u041f-\u041a\u043b\u0443\u0431",
+    "screen_name": "club206382208",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-15.userapi.com/s/v1/ig2/T27C-iQqJvrv7DRiEy4g3KcFcldt_FsUt3pUucTdmOF9WsG5lIGCQ7Xg8y50VolbIWa0qxER6657W5qYz-mXwYbP.jpg?size=50x50&quality=95&crop=76,76,614,614&ava=1",
+    "photo_100": "https://sun4-15.userapi.com/s/v1/ig2/U2__eu_gihYfkcFOJ3ZZpmcV5NTW_4HwiLYYB3clgB8En-UnT1Hhj6tvXjFdoGMTK8UR3I104-JybnvuCBIYgKLT.jpg?size=100x100&quality=95&crop=76,76,614,614&ava=1",
+    "photo_200": "https://sun4-15.userapi.com/s/v1/ig2/8XSMcHzMlpo5x6v99vumOI3qLZKEYZLxVu9obxFM8y6hkpgWu0mVNPIX9GT2VDDHd0_2N9cTEKqhdSoukuHnNmyb.jpg?size=200x200&quality=95&crop=76,76,614,614&ava=1",
+    "start_date": 1629460800
+  },
+  {
+    "id": 206535781,
+    "name": "\u0414\u0435\u0411\u0430\u0440 online: \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u0438 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f",
+    "screen_name": "pp_nsk_covid",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-11.userapi.com/s/v1/ig2/Q5qZtGfcC4BLfn4s5-j9p9K5DLDB7H-hvdBewlG70ynZbwiuwzf7hOoFfNBZ8z_pOlMj_ANK9etoUwroCdIVc3jp.jpg?size=50x50&quality=95&crop=156,0,1022,1022&ava=1",
+    "photo_100": "https://sun4-11.userapi.com/s/v1/ig2/IR4BV6wpkUKRazi8V_DMY_niRXXEKuj0jlDa07m4EWa2UyYlLDkyfQ2i384ZQ-ZFxhzV4GDzhNC06OgcoJBZDLO9.jpg?size=100x100&quality=95&crop=156,0,1022,1022&ava=1",
+    "photo_200": "https://sun4-11.userapi.com/s/v1/ig2/WTPxqY01pw3MgS_8LzDD_IrlfWNhIjG8r9aG8dgahD1iY5q73uoxH3NX_JYhikTzBtslhbaBhnNOh-27uGbSKfpo.jpg?size=200x200&quality=95&crop=156,0,1022,1022&ava=1",
     "start_date": 1629460800
   },
   {
@@ -182,18 +168,18 @@
     "start_date": 1629514800
   },
   {
-    "id": 150791916,
-    "name": "21 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 - \u0411\u0430\u043b \u041d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u044f \u0432 \u0414\u043e\u043c\u0435 \u0423\u0447\u0435\u043d\u044b\u0445",
-    "screen_name": "bal_du_august",
+    "id": 167558024,
+    "name": "\u0410\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0435 \u0420\u0430\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \"\u041f\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430\"",
+    "screen_name": "club167558024",
     "is_closed": 0,
     "type": "event",
     "is_admin": 0,
     "is_member": 0,
     "is_advertiser": 0,
-    "photo_50": "https://sun4-15.userapi.com/s/v1/ig2/dssgqXu-1p2wDFg4g0n4sxLjrvNJVPHPicwPQ5_c8htBqfWLMU_m1mtbVmz4jquJO97V-PkZO-d7FhaeA_ecCBFQ.jpg?size=50x50&quality=95&crop=0,0,1520,1520&ava=1",
-    "photo_100": "https://sun4-15.userapi.com/s/v1/ig2/BFImqZtp-qnjKlXWo1NKlH4-VrePfb0F7bvH6aih7IxlkMf7q1ydzBmGtQ_UNbRYkwekU89Jcjesr2u2NNg6VydR.jpg?size=100x100&quality=95&crop=0,0,1520,1520&ava=1",
-    "photo_200": "https://sun4-15.userapi.com/s/v1/ig2/PNZH0n_pQgQ6KMRb7siVVKXpD6BBG6bIAEX_idWzhWGvTVevT3pvJQFaZvAJbI6nbbzFpA5ELyVzVexzpkOkYeKL.jpg?size=200x200&quality=95&crop=0,0,1520,1520&ava=1",
-    "start_date": 1629540000
+    "photo_50": "https://sun4-12.userapi.com/s/v1/if1/IYs_SXa_3OvhLZpfq19nkOxCji_wLTQJPt5qZcmKyNqxM5IluSBD6I4H64PwVMI5Ck0-wUYv.jpg?size=50x50&quality=96&crop=259,81,404,404&ava=1",
+    "photo_100": "https://sun4-12.userapi.com/s/v1/if1/goAMA37tuQ_X5BEcPQaEl2XLKy9aw-3Z13P8TMJVmRVwCoL2GJlShC8m8bBqNGWxc3h74x96.jpg?size=100x100&quality=96&crop=259,81,404,404&ava=1",
+    "photo_200": "https://sun4-12.userapi.com/s/v1/if1/GdSvN4cYZuo52F2BYPGpKjt3HMd1HhM7fXRkLbWFJkzkFjcPF9KQIWbDLoPWadisbb5JTYa-.jpg?size=200x200&quality=96&crop=259,81,404,404&ava=1",
+    "start_date": 1629518400
   },
   {
     "id": 206135828,
@@ -207,6 +193,20 @@
     "photo_50": "https://sun4-12.userapi.com/s/v1/ig2/kWs-_K0vsmNfNJVUUuvPXGZ3URJL6LkxU3MFsMVIqvtsvpjtx2KkRubi7OKHkIT1a6Ewopmx4jlRJFIjEC5a6yB_.jpg?size=50x50&quality=95&crop=0,0,2000,2000&ava=1",
     "photo_100": "https://sun4-12.userapi.com/s/v1/ig2/VtbZIpJBNZAMRZpJfLKBrSxe6oEoa8HTJ6VbrpsyjgbeB3d5gtpShOVyVjvVEn30XoYFiwiM06LAIydpz9Q-jSGo.jpg?size=100x100&quality=95&crop=0,0,2000,2000&ava=1",
     "photo_200": "https://sun4-12.userapi.com/s/v1/ig2/ChfHgX-oiDn6qauSuea_egxjYv1xKFHmnkFmRZO-oP6h1vckhGXQotEy95YB_q8yEte7CVFkws3aD2pE1rHf_Axx.jpg?size=200x200&quality=95&crop=0,0,2000,2000&ava=1",
+    "start_date": 1629540000
+  },
+  {
+    "id": 150791916,
+    "name": "21 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 - \u0411\u0430\u043b \u041d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u044f \u0432 \u0414\u043e\u043c\u0435 \u0423\u0447\u0435\u043d\u044b\u0445",
+    "screen_name": "bal_du_august",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-15.userapi.com/s/v1/ig2/dssgqXu-1p2wDFg4g0n4sxLjrvNJVPHPicwPQ5_c8htBqfWLMU_m1mtbVmz4jquJO97V-PkZO-d7FhaeA_ecCBFQ.jpg?size=50x50&quality=95&crop=0,0,1520,1520&ava=1",
+    "photo_100": "https://sun4-15.userapi.com/s/v1/ig2/BFImqZtp-qnjKlXWo1NKlH4-VrePfb0F7bvH6aih7IxlkMf7q1ydzBmGtQ_UNbRYkwekU89Jcjesr2u2NNg6VydR.jpg?size=100x100&quality=95&crop=0,0,1520,1520&ava=1",
+    "photo_200": "https://sun4-15.userapi.com/s/v1/ig2/PNZH0n_pQgQ6KMRb7siVVKXpD6BBG6bIAEX_idWzhWGvTVevT3pvJQFaZvAJbI6nbbzFpA5ELyVzVexzpkOkYeKL.jpg?size=200x200&quality=95&crop=0,0,1520,1520&ava=1",
     "start_date": 1629540000
   },
   {
@@ -252,6 +252,20 @@
     "start_date": 1629552000
   },
   {
+    "id": 206430530,
+    "name": "ELECTRO_d.y.n.a.m.i.c.s.",
+    "screen_name": "electrodncs",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-11.userapi.com/s/v1/ig2/vfwcSzkjYJ19hSOvPZpznjvWUa-g_cUOadluMSr1QZv5ueRo6-yXN8OZV1h6IrZfQbF9MyQmt9jrib0hSWEP6ELH.jpg?size=50x50&quality=95&crop=196,168,410,410&ava=1",
+    "photo_100": "https://sun4-11.userapi.com/s/v1/ig2/jSbeRz9-JtpWiBXEmriTv5Ot12c8v-zOpDCjzWF3mwdN52Q3ipZl1MEXwElswZVz-qp4lTJC5A_GFIoFrrUDhZiq.jpg?size=100x100&quality=95&crop=196,168,410,410&ava=1",
+    "photo_200": "https://sun4-11.userapi.com/s/v1/ig2/2VkfYb6RsmTMOqbgR9q_m7igTCWM34T_qlQfQ4LjRGaTZR4fgGjfwYOotRwS6u0icSpLlF7UCYNbvCqKr4fTQkK0.jpg?size=200x200&quality=95&crop=196,168,410,410&ava=1",
+    "start_date": 1629564900
+  },
+  {
     "id": 61375195,
     "name": "\u041a\u0410\u041c\u0427\u0410\u0422\u041a\u0410. \u0412\u041e\u0421\u0425\u041e\u0416\u0414\u0415\u041d\u0418\u0415 \u041d\u0410 \u041a\u041b\u042e\u0427\u0415\u0412\u0421\u041a\u0423\u042e \u0421\u041e\u041f\u041a\u0423",
     "screen_name": "kamchatkakailas",
@@ -264,6 +278,34 @@
     "photo_100": "https://sun4-12.userapi.com/s/v1/if1/sz79GS54Y5B0E4MQPAU_W82U6qGmmpTFupGWS8YfwCx3g9VoveEbdRgsP28yDGHH3ay-L0kN.jpg?size=100x100&quality=96&crop=122,0,374,374&ava=1",
     "photo_200": "https://sun4-12.userapi.com/s/v1/if1/UkGRnULENn-GlbSZweVUYsbV3wX4t5jzBZG5JLQS50xkK2DnkX8YdjJe0kGx6rXR_89O6SkU.jpg?size=200x200&quality=96&crop=122,0,374,374&ava=1",
     "start_date": 1629597600
+  },
+  {
+    "id": 163787614,
+    "name": "\u0424\u0438\u0437\u043a\u0443\u043b\u044c\u0442 I \u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u0442\u0443\u0440\u043d\u0438\u0440\u044b",
+    "screen_name": "fizkultsodrugestvo",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-16.userapi.com/s/v1/ig2/VulHouH_zREJKMgwn3Zj9SA1hWtCIV0Zze6NHxSytgPyPXfstAv_QP_hT5Xq7x6K8aiNb5VuiXYLWhz8IewUgYU4.jpg?size=50x50&quality=96&crop=17,17,1153,1153&ava=1",
+    "photo_100": "https://sun4-16.userapi.com/s/v1/ig2/MBEt43T8xeNVk7GTM_UZagHb0nIvsDbXVjmtKLD7WXI27p5MMFTBrxFUR24ydTCjSl4xNy4OLIhHGjK5f5vagFK4.jpg?size=100x100&quality=96&crop=17,17,1153,1153&ava=1",
+    "photo_200": "https://sun4-16.userapi.com/s/v1/ig2/X7oQqFkKqHH4aXQ0TBba8KyySvuqLc5rnxpTnOuuZt4sc8mwlr2jf902dbzE3-GgtSQ_1S5RI2Rj_B-cXw_snD7z.jpg?size=200x200&quality=96&crop=17,17,1153,1153&ava=1",
+    "start_date": 1629608400
+  },
+  {
+    "id": 206154528,
+    "name": "\u25cf\u041b\u0435\u0442\u043e \u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e | \u0414\u043e\u043c, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c... | \u0421\u0445\u043e\u0434\u043a\u0430\u25cf",
+    "screen_name": "club206154528",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-17.userapi.com/s/v1/ig2/8owvqdH9snkRZfykOWT08xyOtoJTHaBHGndseumABE2mZ1amdwcixz5SPBGb1bCR1dNkcoP13XER_lrSJnnAPAgW.jpg?size=50x50&quality=95&crop=234,74,665,665&ava=1",
+    "photo_100": "https://sun4-17.userapi.com/s/v1/ig2/YZa-5Yw2p3AqVmDdoJbm3Sr9B_p0sqOXHJQ2VHf7eZOYB8ZUHEMbJ90OdqEgy4GQ8KmnMRtsHsxDT6jjCLflYph1.jpg?size=100x100&quality=95&crop=234,74,665,665&ava=1",
+    "photo_200": "https://sun4-17.userapi.com/s/v1/ig2/NQuyHK_7Hq6XySJPCAwxOWm3VsDiVFsH_fNoWTpiin8hvsScptdvRz-d6IfRhWybKIjGrtZYkgkk4zTJ3_xdeUiQ.jpg?size=200x200&quality=95&crop=234,74,665,665&ava=1",
+    "start_date": 1629612000
   },
   {
     "id": 192842591,
@@ -308,6 +350,20 @@
     "start_date": 1629630000
   },
   {
+    "id": 70850345,
+    "name": "Salsa Open Air Novosibirsk",
+    "screen_name": "rechnoy_open",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-12.userapi.com/s/v1/if2/EiY7dpEJRlvrFVNKXwki64KFwbPs0uEuu4NIUpFsqDmisyGEEVeDoV4g1JdUzj3A0ldvaNp3Z7jcBTbHsWFB5XNX.jpg?size=50x50&quality=96&crop=21,20,287,287&ava=1",
+    "photo_100": "https://sun4-12.userapi.com/s/v1/if2/bSALB21mNh56dM12dsf8begNjdrulDlAPbPCmV-8uNf1bqbOCM7ZeoRWi5lNA_qmqfLMUyTmImJ3g6QlNNk2iAB8.jpg?size=100x100&quality=96&crop=21,20,287,287&ava=1",
+    "photo_200": "https://sun4-12.userapi.com/s/v1/if2/14i-W4VgikCdEzFc4gxKwm6dW_hAK700kVVrXpNZPzZMad4BAhzCv79cSbKgXa-I4wlAOUrm_ByG2J7m64QvNOO1.jpg?size=200x200&quality=96&crop=21,20,287,287&ava=1",
+    "start_date": 1629633600
+  },
+  {
     "id": 112015247,
     "name": "\u0424\u043e\u0442\u043e\u043f\u0440\u043e\u0435\u043a\u0442 \"  \u0410\u0440\u0431\u0443\u0437\u0438\u043a\u0438 \"",
     "screen_name": "club112015247",
@@ -320,5 +376,89 @@
     "photo_100": "https://sun4-17.userapi.com/s/v1/ig2/3_E1YdsRmjnCAlVLs2KKTxTRR9W4AwRYUR67Z0mX9VV-vJXmf62fh58NiK0Z1Xrz5_sQ3nDFeOUSuR6qqDy-sN5S.jpg?size=100x100&quality=96&crop=428,2,1703,1703&ava=1",
     "photo_200": "https://sun4-17.userapi.com/s/v1/ig2/PrmTqXgwNyvX_QS_VQ7kuqOQIGP8g8XsOFr5zY2Ltt-1FTLjD0RuEp63_J_5kGZeomIwtw_CNxtqKGtnVtyarCW9.jpg?size=200x200&quality=96&crop=428,2,1703,1703&ava=1",
     "start_date": 1629644318
+  },
+  {
+    "id": 95829948,
+    "name": "\u0414\u0435\u043d\u0435\u0436\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a 101",
+    "screen_name": "dp101nsk",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-15.userapi.com/s/v1/ig2/kYDjfShvs3KIynWVst730cLR-9nKLhEANweuzKfz1JUsgZ0KkjdCtjsi3UR5gd4qPrLPzjb1K9RscPneea-yEpSL.jpg?size=50x50&quality=96&crop=88,21,484,484&ava=1",
+    "photo_100": "https://sun4-15.userapi.com/s/v1/ig2/JjPnkqY44SONxZfeWy-xBsX57DVgehxZ3RZX_LOFkofx0ULIvq43ZJ4vU0kwubSN4AOthT62Spd7Sj7SKVizIeJX.jpg?size=100x100&quality=96&crop=88,21,484,484&ava=1",
+    "photo_200": "https://sun4-15.userapi.com/s/v1/ig2/FvUs3C6hdrx92y-3GmkS9hpgx8aqEkRXYXTYXWEWgI0ISA1BEWAd0cxAc9_8Qis056wYznr1kGlfp6PoQJa-Lok7.jpg?size=200x200&quality=96&crop=88,21,484,484&ava=1",
+    "start_date": 1629718200
+  },
+  {
+    "id": 202363243,
+    "name": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440 \u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u043a\u0430.",
+    "screen_name": "club202363243",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-15.userapi.com/s/v1/ig2/HdG0Q_LKbbTrl_KgFI5iOE4l6E7WHOGEuIiiSGzlSdcKORpeXBGMfYnZJGu6sPtIevrjy5twsgkVJAdT_E3DjbYY.jpg?size=50x50&quality=96&crop=605,213,506,506&ava=1",
+    "photo_100": "https://sun4-15.userapi.com/s/v1/ig2/eJbiYZ5zRuAe1nJyZ0QvyZlvvDSYpm8ug4No9WfgTcRTU3J_nE7OmGLUyzBXL9MQkTn2PuJZQgdOTU-orBTl4ioX.jpg?size=100x100&quality=96&crop=605,213,506,506&ava=1",
+    "photo_200": "https://sun4-15.userapi.com/s/v1/ig2/FmzCat1WtJEAqAgffCNTGtoPgA8piajpsFd14nGp2f0XkirF8dhKssgOIj6wda0q-HByrRkTsUrg5Ry2_1HiKNBL.jpg?size=200x200&quality=96&crop=605,213,506,506&ava=1",
+    "start_date": 1629867600
+  },
+  {
+    "id": 200063034,
+    "name": "\u041b\u0435\u0442\u043d\u044f\u044f \u0448\u043a\u043e\u043b\u0430 2021",
+    "screen_name": "club200063034",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-17.userapi.com/s/v1/ig2/F0ejlbocxotFHXZh9H9hfYmbaWTtcD5LuV0CSuFtOT9-Kb9K4lejR6Fc0a_TeaYwt3WdmZpJNsLs-6yojybP1JrY.jpg?size=50x50&quality=96&crop=287,85,680,680&ava=1",
+    "photo_100": "https://sun4-17.userapi.com/s/v1/ig2/RGXDPQLaUmZwYDbLJEkt-z_WPEYo9VTdJlMWiV-J6j8tDGeGQcdvS5vQX7D_JLRJUYfJSeVzdTbV7ClE_H32sAjf.jpg?size=100x100&quality=96&crop=287,85,680,680&ava=1",
+    "photo_200": "https://sun4-17.userapi.com/s/v1/ig2/WFeZ5AOHkTSNGqXoIpWAHSpJon3e1P30OlcLSjlvzpzK3B20v-SChKV1sRdjyArIgLw8y2r7C7RopBL4DGHpD7b6.jpg?size=200x200&quality=96&crop=287,85,680,680&ava=1",
+    "start_date": 1629878400
+  },
+  {
+    "id": 55502570,
+    "name": "\u041c\u0418\u041b\u041e\u041d\u0413\u0410 \u0422\u0430\u043d\u0433\u043e open-air \u0432 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0435",
+    "screen_name": "tangopenair",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-17.userapi.com/s/v1/if2/AoAX1fRVzlo4DE2odC8_FvJQMoxRyw9OridIvEb_M9p9-vvnK0SMed-n9rPut7fy3SHETuXxSBWrKFHPpaDTQgp9.jpg?size=50x50&quality=96&crop=37,18,378,378&ava=1",
+    "photo_100": "https://sun4-17.userapi.com/s/v1/if2/sk00p4172WWpzgUIgjxl3UzqUebEGmg03emieYTpqi_B5HFvYFCxuvpU0NA2AnKzmfeASQaaFrSrePn5uKn7cxrN.jpg?size=100x100&quality=96&crop=37,18,378,378&ava=1",
+    "photo_200": "https://sun4-17.userapi.com/s/v1/if2/uKXMdWDPuPg-SkplXx5oBxmS2QX2VazSqe5OyqcS0Ej7Ef0sB12pnt0i0nJ3f-tK1x11H0B39Tv54zdwO53wrByU.jpg?size=200x200&quality=96&crop=37,18,378,378&ava=1",
+    "start_date": 1629892800
+  },
+  {
+    "id": 179274458,
+    "name": "\u0422\u0440\u0438 \u043a\u0438\u0442\u0430 I \u044d\u043a\u043e\u043f\u0440\u043e\u0435\u043a\u0442",
+    "screen_name": "trikita_nsk",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-11.userapi.com/s/v1/ig2/j5V3WuxhNRxGUkEffxvpJz5WbSXN1_By4Zo--CLALNdMluQXCF6ESrdMkAzyf8X0h79z1csWDxcpOgvefg09Cvzu.jpg?size=50x50&quality=96&crop=2,0,1213,1213&ava=1",
+    "photo_100": "https://sun4-11.userapi.com/s/v1/ig2/mh6492C-i1e0HplAcgCxvpwqBnx5eg0Greed9EWLc1lHXh_YSZIgvJGrvGNVnuJlfT7akeju5VXZF0jWBPckQAn_.jpg?size=100x100&quality=96&crop=2,0,1213,1213&ava=1",
+    "photo_200": "https://sun4-11.userapi.com/s/v1/ig2/YFGGmp5gefAw7LBptUYhYpbKBJx3OPhD3pdsHTFTwTjRuc9s9WnUXgYi3w22d6eS2kO0OKprxaIFyzSYwUBMpr8_.jpg?size=200x200&quality=96&crop=2,0,1213,1213&ava=1",
+    "start_date": 1629979200
+  },
+  {
+    "id": 206528666,
+    "name": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442 \u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0410\u0440\u0442-\u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 \u0422\u0430\u0432\u0440\u0438\u0434\u0430",
+    "screen_name": "club206528666",
+    "is_closed": 0,
+    "type": "event",
+    "is_admin": 0,
+    "is_member": 0,
+    "is_advertiser": 0,
+    "photo_50": "https://sun4-10.userapi.com/s/v1/ig2/O3jz64xDEHf3pLlTAH3EF6X0eFdJAl66e-2oZohqc_mXr4NtIShN0pIOuT9t-qcb7T1fKNFXiZhtJmFPU7C3KVoj.jpg?size=50x50&quality=95&crop=66,192,1218,1218&ava=1",
+    "photo_100": "https://sun4-10.userapi.com/s/v1/ig2/gpn2Q_PlC9sYDtPNHpmCCp7UpvIADmrPC79zUiwPcN4ahouOPu9o9_1U0ZR2aK0RBlmPR4rigF7WWbHwt6On9ba-.jpg?size=100x100&quality=95&crop=66,192,1218,1218&ava=1",
+    "photo_200": "https://sun4-10.userapi.com/s/v1/ig2/or7JacLQ2bYQMh0yBwXPThtef2Pb5Y856kUmWr1jOyQM3dLbUfb9runOvKAmNjDIjkWm5V-dPV1iHxrYIEPMdSx0.jpg?size=200x200&quality=95&crop=66,192,1218,1218&ava=1",
+    "start_date": 1629981000
   }
 ]
