@@ -12,14 +12,11 @@
  *@
 @main() {
  @for(event <- data) {
-  <div class="col">
-   <div class="card" style="width: 202px">
-    <img width="200" height="200" class="card-img-top" src="@event.img.as[String]" alt="@event.name.as[String]"/>
-    <div class="card-body">
-     <p class="card-text">@event.name</p>
-     <a href="@event.url" class="btn btn-primary" target="_blank">Посмотреть в ВК</a>
-    </div>
-   </div>
+  <div class="column">
+   <a href="@event.url" target="_blank">
+    <img class="thumbnail" src="@event.img.as[String]" alt="@event.name.as[String]">
+   </a>
+   <h5>@event.name</h5>
   </div>
  }
 }
