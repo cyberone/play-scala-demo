@@ -4,7 +4,7 @@
  * two arguments, a `String` for the title of the page and an `Html`
  * object to insert into the body of the page.
  *@
-@()(content: Html)
+@(metric: String)(content: Html)
 
 <!doctype html>
 <html class="no-js" lang="en">
@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
     </head>
     <body>
-
+        @Html(metric)
         <div class="off-canvas-wrapper">
             <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
                 <div class="off-canvas-content" data-off-canvas-content>

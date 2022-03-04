@@ -3,14 +3,15 @@
  * message to display.
  *@
 @import model.Event
-@(data: Iterable[Event])
+@import jdk.internal.platform.Metrics
+@(data: Iterable[Event], metric: String = null)
 
 @*
  * Call the `main` template with two arguments. The first
  * argument is a `String` with the title of the page, the second
  * argument is an `Html` object containing the body of the page.
  *@
-@main() {
+@main(metric) {
  @for(event <- data) {
   <div class="column">
    <a href="@event.url" target="_blank">

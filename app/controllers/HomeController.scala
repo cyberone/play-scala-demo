@@ -22,7 +22,7 @@ class HomeController @Inject()(cc: ControllerComponents) extends AbstractControl
    */
   def index: Action[AnyContent] = Action {
     val data = Json.parse(getClass.getClassLoader.getResourceAsStream("data.json")).asInstanceOf[JsArray].value
-    Ok(views.html.index(data.map(Event.apply)))
+    Ok(views.html.index(data.map(Event.apply), System.getenv("METRIC")))
   }
 
 }
